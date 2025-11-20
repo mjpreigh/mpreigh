@@ -1,5 +1,2 @@
-body {
-    margin: 0;
-    background: pink;
-    text-align: center;
-}
+html { background-color: black; }
+body { margin:50px; background-color: white; }
